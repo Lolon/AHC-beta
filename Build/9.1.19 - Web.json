@@ -1,0 +1,13 @@
+{
+"companyName": "Lolon",
+"productName": "ANTI HUMAN CONTRUCTOR",
+"dataUrl": "9.1.19 - Web.data.unityweb",
+"asmCodeUrl": "9.1.19 - Web.asm.code.unityweb",
+"asmMemoryUrl": "9.1.19 - Web.asm.memory.unityweb",
+"asmFrameworkUrl": "9.1.19 - Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#3C3267"
+}
